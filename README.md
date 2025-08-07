@@ -36,9 +36,9 @@ Physics-Informed ML: Models quark and gluon masses (Mud, Ms, Mgluon) as function
 
 ## Data Requirements
 
-Input CSV files (from lattice QCD and Thermal-FIST ):
-hotqcd_1407.6387_noerrbar_allT.csv: Thermodynamic observables (s/T^3, P/T^4, etc.).
-fig1_data.csv: Baryon susceptibilities (χ_B^2, χ_B^4).
+* Input CSV files (from lattice QCD and Thermal-FIST ):
+* hotqcd_1407.6387_noerrbar_allT.csv: Thermodynamic observables (s/T^3, P/T^4, etc.).
+* fig1_data.csv: Baryon susceptibilities (χ_B^2, χ_B^4).
 
 ## Notes for Users:
 
